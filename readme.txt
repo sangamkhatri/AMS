@@ -1,4 +1,4 @@
-
+It is an employee attendance system built in php.Follow the following steps to run the system.
 
 FIRST Download
 
